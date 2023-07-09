@@ -11,9 +11,9 @@ title and description in it
 ## Installation
 
 #### 1. Download
-    ```sh
-      git clone https://github.com/Madusankaperera95/FrontEndSubscription
-    ```
+```sh
+  git clone https://github.com/Madusankaperera95/FrontEndSubscription
+```
 
 #### 2. Environment Files
 In src/utils/api.js file fill BASE_API_URL variable access backend api.('http://127.0.0.1:8000/api')
@@ -28,6 +28,6 @@ npm install
 
 #### 4. To Run the application
 
-      ```sh
+```sh
 npm run dev
 ```
